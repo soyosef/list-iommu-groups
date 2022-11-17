@@ -16,3 +16,6 @@ for g in $(find /sys/kernel/iommu_groups/* -maxdepth 0 -type d | sort -V); do
     done;
 done;
 ```
+
+# source
+https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF
