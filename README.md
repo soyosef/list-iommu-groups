@@ -2,7 +2,7 @@
 
 - clone repo
 - $ cd list-iommu-groups
-- $ chmod -x ./lig.sh
+- $ chmod +x ./lig.sh
 - run: $ ./lig.sh
 
 # code:
